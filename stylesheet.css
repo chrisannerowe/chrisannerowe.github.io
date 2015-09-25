@@ -6,7 +6,16 @@ p{
     font-family: Arial;
 }
 
+h1{
+    font-align: center;
+}
+
 h4{
     font-family: Cursive;
     font-size: 20px;
+    font-weight: bold;
+}
+
+img{
+    align: center;
 }
